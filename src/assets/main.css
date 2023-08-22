@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+}
+#app {
+  max-width: 1350px;
+  margin: auto;
+  font-weight: normal;
+}
+.text-center{
+  text-align: center;
+}
